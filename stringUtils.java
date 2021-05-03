@@ -1,2 +1,2 @@
-hello
+Hello
 This file contains all the string related functions...
