@@ -1,4 +1,6 @@
-Im in the master branch
+
+Im from master branch
 Hello...
-here this line updating..i.
+Im from development branch
+here this line updating..
 hello
